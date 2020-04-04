@@ -3,6 +3,6 @@
 }
 
 .example-header-image {
-  background-image: url('./../../assets/birthday/i14.jpg');
+  background-image: url('assets/birthday/i14.jpg');
   background-size: cover;
 }
