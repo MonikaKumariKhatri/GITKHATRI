@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "Khatri-Marriage-Hall": {
+    "Khatri": {
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
@@ -128,5 +128,5 @@
       }
     }
   },
-  "defaultProject": "Khatri"
+  "defaultProject": "Khatri Marriage Hall and Lodge, Mihijam"
 }
